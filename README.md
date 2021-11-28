@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Zuhal 'Alimul Hadi. I'm currently pursue bachelor degree at information systems. I've interest in web development and mobile development
+I'm Zuhal 'Alimul Hadi.
 
 - 🔭 I’m currently pursuing information systems bachelor degree
 - 🌱 I’m currently learning about web development and mobile development
