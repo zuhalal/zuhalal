@@ -4,14 +4,14 @@ I'm Zuhal 'Alimul Hadi. I'm currently pursue bachelor degree at information syst
 
 - 🔭 I’m currently pursuing information systems bachelor degree
 - 🌱 I’m currently learning about web development and mobile development
-- 
+
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhalal&count_private=true&layout=compact&theme=nord" alt="zuhalalal github stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhalal&count_private=false&layout=compact&theme=nord" alt="zuhalalal github stats"/>
   </a>
   <br/><br/>
   <a href="https://github.com/sabynn/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zuhalal&count_private=true&show_icons=true&theme=nord" alt="zuhalal top languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zuhalal&count_private=false&show_icons=true&theme=nord" alt="zuhalal top languages"/>
   </a>
 </p>
 <!--
