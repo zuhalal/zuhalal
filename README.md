@@ -10,7 +10,7 @@ I'm Zuhal 'Alimul Hadi.
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhalal&count_private=true&layout=compact&theme=nord" alt="zuhalalal github stats"/>
   </a>
   <br/><br/>
-  <a href="https://github.com/sabynn/github-readme-stats">
+  <a href="https://github.com/zuhalal/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zuhalal&count_private=true&show_icons=true&theme=nord" alt="zuhalal top languages"/>
   </a>
 </p>
